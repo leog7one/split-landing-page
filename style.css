@@ -1,7 +1,7 @@
 :root {
   --container-bg-color: #333;
   --left-bg-color: rgba(39, 119, 223, 0.7);
-  --left-button-hover-color: rgba(161, 11, 11, 0.3);
+  --left-button-hover-color: rgba(0, 53, 127, 0.3);
   --right-bg-color: rgba(43, 43, 43, 0.8);
   --right-button-hover-color: rgba(92, 92, 92, 0.3);
   --hover-width: 75%;
@@ -26,6 +26,17 @@ h1 {
   top: 20%;
   transform: translateX(-50%);
   white-space: nowrap;
+}
+
+h2 {
+  font-size: 4rem;
+  color: #fff;
+  position: absolute;
+  left: 49.2%;
+  top: 10%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  z-index: 1;
 }
 
 .button {
