@@ -82,7 +82,7 @@ h2 {
 
 .split.left {
   left:0;
-  background: url('img/programmer.png') center center no-repeat;
+  background: url('img/programmer1.png') center center no-repeat;
   background-size: cover;
 }
 
@@ -96,7 +96,7 @@ h2 {
 
 .split.right {
   right:0;
-  background: url('img/technician.jpg') center center no-repeat;
+  background: url('img/technician2.jpg') center center no-repeat;
   background-size: cover;
 }
 
